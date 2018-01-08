@@ -2,6 +2,8 @@
 
 **`print()` to Slack - that simple!**
 
+![Demo](https://i.imgur.com/RW0NHaX.png)
+
 ## Installation
 
 `pip install print2slack`
