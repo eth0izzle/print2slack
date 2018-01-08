@@ -1,0 +1,3 @@
+.idea/*
+.virtualenv/*
+print2slack.egg-info/*
