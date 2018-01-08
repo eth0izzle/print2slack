@@ -1,6 +1,6 @@
 # print2slack
 
-**`print()` to Slack - that simple!**
+**`print()` to Slack**. A monkeypatch that prints all output to a Slack channel instead of stdout - just `import` and go!
 
 ![Demo](https://i.imgur.com/RW0NHaX.png)
 
